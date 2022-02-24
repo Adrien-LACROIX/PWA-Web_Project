@@ -1,5 +1,6 @@
 body {
-    background-color: #333;
+    background: linear-gradient(red, blue);
+    height: 743px;
 }
 
 #form {
