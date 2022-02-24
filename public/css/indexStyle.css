@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(red, blue);
+    height: 98vh;
+}
+
+#form {
+    background-color: white;
+    border: 5px solid white;
+    -webkit-border-radius: 10px;
+    width: 30%;
+    position: absolute;
+    bottom: 300px;
+    right: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#start {
+    -webkit-border-radius: 10px;
+}
