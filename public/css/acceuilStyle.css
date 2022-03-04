@@ -1,7 +1,22 @@
-body {
-
+#nav {
+    background-color: black;
+    border: 5px solid white;
+    -webkit-border-radius: 10px;
+    width: 19%;
 }
 
-#nav {
+#boutonAcceuil {
+    -webkit-border-radius: 10px;
+}
 
+#boutonCapteur {
+    -webkit-border-radius: 10px;
+}
+
+#BoutonHistorique {
+    -webkit-border-radius: 10px;
+}
+
+#BoutonDocumentation {
+    -webkit-border-radius: 10px;
 }
