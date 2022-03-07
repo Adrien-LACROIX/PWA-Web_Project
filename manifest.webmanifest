@@ -3,7 +3,13 @@
     "version": "1.0.0",
     "description": "",
     "main": "app.js",
-
+    "icons": [
+        {
+          "src": "res/image/TermoIco.png",
+          "sizes": "144x144",
+          "type": "image/png"
+        }
+      ],
     "author": "Taliesin Aubert/Adrien Lacroix",
     "license": "ISC"
   }
